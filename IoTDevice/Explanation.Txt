@@ -1,0 +1,1 @@
+Se presenta el codigo que utiliza nuestro nodeMCU, es importante tener la base de datos con los mismos nombres para facilitar el proceso o ajustar el codigo para poder que funcione con tu base de datos.
