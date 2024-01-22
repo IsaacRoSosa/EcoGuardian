@@ -45,4 +45,4 @@ Actualiza las credenciales de conexión a la base de datos en `mapa.php` con tu 
 [Ver Demo ](https://drive.google.com/file/d/1JJnY-8sctr3dx-iFxHe03hOdO2uLU7JV/view?usp=sharing)
 
 ## Capturas de Pantalla
-![EcoGuardian](img/ejemplo-imagen.png)
+![EcoGuardian](img/MaPhP.png)
