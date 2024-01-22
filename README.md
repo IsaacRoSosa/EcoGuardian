@@ -1,4 +1,4 @@
-# EcoGuardian
+# 🌲 EcoGuardian 🌲
 
 ## Descripción del Proyecto
 
