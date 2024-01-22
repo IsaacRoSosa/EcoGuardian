@@ -15,9 +15,9 @@ EcoGuardian es un proyecto que utiliza dispositivos de IoT para monitorear y rec
 
 ## Contenido del Repositorio
 
-- **IoT_Device_Code:** Código fuente para el dispositivo IoT, escrito en C++ para un ESP8266.
+- **IoT_Device_Code:** Código fuente para el dispositivo IoT, escrito en C++ para un ESP8266, asi mismo como explicación y diagrama de conexiones
 - **Connection_Between_Device_and_Database:** Código PHP para manejar la conexión entre el dispositivo IoT y la base de datos.
-- **Webpage_Code:** Código HTML, CSS y JavaScript para la interfaz web que muestra los datos y gráficos.
+- **Webpage:** Código HTML, CSS y PHP para la interfaz web que muestra los datos y gráficos.
 - **Fotos:** Contiene imágenes utilizadas en la interfaz web.
 
 
